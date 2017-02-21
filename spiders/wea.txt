@@ -1,0 +1,22 @@
+city:杭
+
+date:02-20		day:多云(19°C )		night:小雨( 6°C)
+
+date:02-21		day:小雨(13°C )		night:多云( 8°C)
+
+date:02-22		day:小雨(13°C )		night:小雨( 5°C)
+
+date:02-23		day:阴(8°C )		night:小雨( 2°C)
+
+date:02-24		day:多云(9°C )		night:多云( 1°C)
+
+date:02-25		day:多云(10°C )		night:多云( 2°C)
+
+date:02-26		day:晴(13°C )		night:多云( 3°C)
+
+date:02-27		day:局部多云(16°C )		night:局部多云( 4°C)
+
+date:02-28		day:局部多云(17°C )		night:局部多云( 6°C)
+
+date:03-01		day:少云(18°C )		night:局部多云( 4°C)
+
